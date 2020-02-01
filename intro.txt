@@ -1,0 +1,8 @@
+Introduction
+
+The project will be about opening new restaurant in Toronto. 
+The main task of this project will be to define the best location for new restaurant by providing and analysing data about size of population and other restaurants in each neighbourhood.
+Data about the size of population in Toronto downloaded from
+https://open.toronto.ca/dataset/neighbourhood-profiles/  "neighbourhood-profiles-2016-csv".
+Toronto city geographical coordinates data will be utilized as input for the Foursquare API. I will use the Foursquare API to explore already existing restaurants in neighbourhoods in Toronto and combine it with size of population data. I will use the visualization on choropleth maps.
+
